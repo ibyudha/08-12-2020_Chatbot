@@ -13,7 +13,7 @@ def submit():
         printChatnya.insert(END,"\n" + "Bot:halo")
     elif(a.get()=='halo'):
         printChatnya.insert(END,"\n"+ "Bot:hai")
-    elif(a.get()=='Kamu siapa?'):
+    elif(a.get()=='kamu siapa?'):
         printChatnya.insert(END,"\n"+ "Bot:Aku Bot, kamu?")
     elif(a.get()=='saya gus yudha'):
         printChatnya.insert(END,"\n"+ "Bot:Ntapss, halo gus yudha")
